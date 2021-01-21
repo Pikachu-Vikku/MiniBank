@@ -187,10 +187,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611217785371" />
-    <state x="825" y="417" key="Github.ShareDialog" timestamp="1611220120723">
+    <state x="825" y="417" width="414" height="311" key="Github.ShareDialog" timestamp="1611221332537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="825" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611220120723" />
+    <state x="825" y="417" width="414" height="311" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611221332537" />
+    <state x="677" y="218" key="Github.UntrackedFilesDialog" timestamp="1611221381101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611221381101" />
     <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1611217054305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
